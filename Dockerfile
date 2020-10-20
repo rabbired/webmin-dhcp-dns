@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER rabbired@outlook.com
+MAINTAINER MAINTAINER Red Z <rabbired@outlook.com>
 
 ENV BIND_USER=bind \
     DHCP_USER=dhcpd \
