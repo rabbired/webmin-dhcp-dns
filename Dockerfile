@@ -1,4 +1,5 @@
-FROM ubuntu:latest
+FROM ubuntu:latest as build
+
 MAINTAINER MAINTAINER Red Z <rabbired@outlook.com>
 
 ENV BIND_USER=bind \
